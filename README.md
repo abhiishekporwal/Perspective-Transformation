@@ -1,5 +1,5 @@
 # Perspective-Transformation
-Transform perspective of a document in an image to Bird-eye view. Can be useful to autoamatically detect corners of document and apply perspective transform to align the image.
+Transform perspective of a document in an image to Bird-eye view. Can be useful to automatically detect corners of document and apply perspective transform to align the image.
 
 I have prepared a Demo file "Perspective_Transform.ipynb" which contains my approach to solve this problem. I had used google colab platform. 
 
